@@ -1,2 +1,10 @@
-# spotify_top100_2018_analysis
-Using Python to perform an in-depth Exploratory Data Analysis (EDA) on the Spotify Top Tracks of 2018 dataset.
+The goal is to uncover patterns, trends, and characteristics that define the most popular songs of the year 2018.
+
+Skills Demonstrated:
+Data cleaning & preprocessing
+Exploratory data analysis
+Feature understanding
+Correlation analysis
+Visualisation (Matplotlib & Seaborn)
+Insight interpretation
+Storytelling with data
